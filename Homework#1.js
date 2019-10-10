@@ -74,7 +74,6 @@ function findAsc(n1, n2, n3) {
     console.log(numbers);
 
 }
-findAsc(1);
 
 //PROBLEM #7
 function productSign(n1, n2, n3) {

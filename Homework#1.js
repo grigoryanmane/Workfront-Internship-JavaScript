@@ -131,18 +131,14 @@ function rewrite() {
 //PROBLEM #10
 
 function inNumber(digit, number) {
-    let count = 0;
-    number = String(number);
+   number = String(number);
     for (let i = 0; i < number.length; i++) {
         if (number[i] == digit) {
-            count++;
+            console.log("Yes");
+            return;
         }
     }
-    if (count >= 1) {
-        console.log("Yes");
-    } else {
-        console.log("No");
-    }
+    console.log("No");
 }
 
 //PROBLEM #11

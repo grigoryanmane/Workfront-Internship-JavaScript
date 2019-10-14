@@ -1,3 +1,8 @@
+/*
+* Workfront Fullstack Internship 2019
+* Javascript Homework #2
+* Mane Grigoryan
+*/
 'use strict';
 
 //PROBLEM #1
